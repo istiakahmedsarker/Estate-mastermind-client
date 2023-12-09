@@ -1,10 +1,10 @@
 # Estate Management Project
 
-Admin email:admin@admin.com
-Admin password:admin1234
-Front-end Live Site Link:https://building-management-7c1a9.web.app/
-Client Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-client
-Server Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-server
+* Admin email:admin@admin.com
+* Admin password:admin1234
+* Front-end Live Site Link:https://building-management-7c1a9.web.app/
+* Client Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-client
+* Server Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-server
 
 
 ## HomePage
