@@ -1,0 +1,57 @@
+{
+                path: '/dashboard', // Base path for the Dashboard component
+                element: <PrivateRoute><Dashboard /> </PrivateRoute>,
+                children: [
+                    // user routes
+                    {
+                        path: 'myProfile',
+                        element: <PrivateRoute><MyProfile /></PrivateRoute>,
+                    },
+                    {
+                        path: 'announcements',
+                        element: <PrivateRoute><Announcements /></PrivateRoute>,
+                    },
+
+
+                    // member routes
+                    {
+                        path: 'myProfile',
+                        element: <MemberRoute><MyProfile /></MemberRoute>,
+                    },
+                    {
+                        path: 'makePayment',
+                        element: <MemberRoute><Announcements /></MemberRoute>,
+                    },
+                    {
+                        path: 'paymentHistory',
+                        element: <MemberRoute><Announcements /></MemberRoute>,
+                    },
+                    {
+                        path: 'announcements',
+                        element: <MemberRoute><Announcements /></MemberRoute>,
+                    },
+
+
+                    // Admin routes
+                    {
+                        path: 'adminProfile',
+                        element: <AdminRoute><AdminProfile /></AdminRoute>,
+                    },
+                    {
+                        path: 'manageMembers',
+                        element: <AdminRoute><ManageMembers /></AdminRoute>,
+                    },
+                    {
+                        path: 'makeAnnouncement',
+                        element: <AdminRoute><MakeAnnouncement /></AdminRoute>,
+                    },
+                    {
+                        path: 'agreementRequests',
+                        element: <AdminRoute><AgreementRequests /></AdminRoute>,
+                    },
+                    {
+                        path: 'manageCoupons',
+                        element: <AdminRoute><ManageCoupons /></AdminRoute>,
+                    },
+                ]
+            }
