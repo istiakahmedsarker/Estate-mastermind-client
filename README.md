@@ -3,8 +3,8 @@
 * Admin email:admin@admin.com
 * Admin password:admin1234
 * Front-end Live Site Link:https://building-management-7c1a9.web.app/
-* Client Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-client
-* Server Side Github Repository Link:https://github.com/istiakahmedsarker/estate-management-server
+* Client Side Github Repository Link:[Estate-management-client](https://github.com/istiakahmedsarker/Estate-mastermind-client)
+* Server Side Github Repository Link:[Estate-management-server](https://github.com/istiakahmedsarker/Estate-mastermind-server)
 
 
 ## HomePage
