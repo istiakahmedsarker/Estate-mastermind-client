@@ -8,10 +8,10 @@ Tailwind CSS for a stylish and responsive design, ReactJS for a dynamic user int
 
 ## Features:
 
-Responsive Design: Accessible on mobile, tablet, and computer.
-Easy Navigation: Explore flats with a digital map.
-Secure Payments: Pay with confidence through Stripe.
-Exclusive Discounts: Enjoy savings on specific flats.
+* Responsive Design: Accessible on mobile, tablet, and computer.
+* Easy Navigation: Explore flats with a digital map.
+* Secure Payments: Pay with confidence through Stripe.
+* Exclusive Discounts: Enjoy savings on specific flats.
 
 ## Login credentials:
 * Admin email:admin@admin.com
