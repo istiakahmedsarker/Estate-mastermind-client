@@ -1,5 +1,19 @@
 # Estate Management Project
 
+## About this Project:
+Welcome to our platform where users can effortlessly find and rent their ideal flats, with the added convenience of digital map navigation. Rent payments are made easy through Stripe, and exclusive discounts are available for specific flats. The website boasts a responsive design catering to users on mobile, tablet, and computer.
+
+## Technologies used:
+Tailwind CSS for a stylish and responsive design, ReactJS for a dynamic user interface, Express for a robust backend, Axios for efficient server communication, Firebase for secure authentication, and MongoDB for reliable data storage.
+
+## Features:
+
+Responsive Design: Accessible on mobile, tablet, and computer.
+Easy Navigation: Explore flats with a digital map.
+Secure Payments: Pay with confidence through Stripe.
+Exclusive Discounts: Enjoy savings on specific flats.
+
+## Login credentials:
 * Admin email:admin@admin.com
 * Admin password:admin1234
 * Front-end Live Site Link:[Live-Site-Link](https://building-management-7c1a9.web.app/)
