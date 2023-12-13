@@ -6,6 +6,8 @@ Welcome to our platform where users can effortlessly find and rent their ideal f
 ## Technologies used:
 Tailwind CSS for a stylish and responsive design, ReactJS for a dynamic user interface, Express for a robust backend, Axios for efficient server communication, Firebase for secure authentication, and MongoDB for reliable data storage.
 
+* Why Should you buy it?
+ Transform property management with our Estate Management Project—seamless apartment hunting, secure payments, exclusive discounts, and personalized dashboards for users, members, and admins. Elevate your real estate journey with innovation and convenience.
 ## Features:
 
 * Responsive Design: Accessible on mobile, tablet, and computer.
